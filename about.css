@@ -1,0 +1,16 @@
+ul{
+width:1330px;
+height:45px;
+margin:auto;
+background-color:#0040ff;
+border:1px solid #0040ff;
+}
+ul li{
+padding:13px;
+display:inline-block;
+list-style-type:none;
+color:white;
+text-align: center;
+font-size:18px;
+font-family:red serif;
+}
